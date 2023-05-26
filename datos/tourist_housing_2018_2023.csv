@@ -1,0 +1,133 @@
+CODI_BARRI,BARRI,CODI_DISTRICTE,DISTRICTE,Sum of NUMERO_PLACES,Count of N_EXPEDIENT,ANY
+01,el Raval,1,CIUTAT VELLA,1176,211,2023
+01,el Raval,1,CIUTAT VELLA,,176,2018
+02,el Barri Gòtic,1,CIUTAT VELLA,1108,194,2023
+02,el Barri Gòtic,1,CIUTAT VELLA,,194,2018
+03,la Barceloneta,1,CIUTAT VELLA,198,63,2023
+03,(blank),1,CIUTAT VELLA,8,1,2023
+03,la Barceloneta,1,CIUTAT VELLA,,68,2018
+04,Sant Pere,1,CIUTAT VELLA,0,156,2023
+04,Sant Pere - Santa Caterina i la Ribera,1,CIUTAT VELLA,,167,2018
+05,el Fort Pienc,2,L'EIXAMPLE,2110,328,2023
+05,el Fort Pienc,2,L'EIXAMPLE,,331,2018
+06,la Sagrada Família,2,L'EIXAMPLE,4099,746,2023
+06,(blank),2,L'EIXAMPLE,4,1,2023
+06,la Sagrada Família,2,L'EIXAMPLE,,770,2018
+07,la Dreta de l'Eixample,2,L'EIXAMPLE,12107,1636,2023
+07,la Dreta de l'Eixample,2,L'EIXAMPLE,,1671,2018
+08,l'Antiga Esquerra de l'Eixample,2,L'EIXAMPLE,4469,665,2023
+08,l'Antiga Esquerra de l'Eixample,2,L'EIXAMPLE,,709,2018
+09,la Nova Esquerra de l'Eixample,2,L'EIXAMPLE,2602,520,2023
+09,(blank),2,L'EIXAMPLE,1,1,2023
+09,la Nova Esquerra de l'Eixample,2,L'EIXAMPLE,,414,2018
+10,Sant Antoni,2,L'EIXAMPLE,3311,555,2023
+10,Sant Antoni,2,L'EIXAMPLE,,589,2018
+11,el Poble Sec,3,SANTS-MONTJUÏC,2422,494,2023
+11,el Poble Sec,3,SANTS-MONTJUÏC,,516,2018
+12,la Marina del Prat Vermell,3,SANTS-MONTJUÏC,10,3,2023
+12,la Marina del Prat Vermell,3,SANTS-MONTJUÏC,,3,2018
+13,la Marina de Port,3,SANTS-MONTJUÏC,38,6,2023
+13,la Marina de Port,3,SANTS-MONTJUÏC,,7,2018
+14,la Font de la Guatlla,3,SANTS-MONTJUÏC,408,73,2023
+14,la Font de la Guatlla,3,SANTS-MONTJUÏC,,73,2018
+15,Hostafrancs,3,SANTS-MONTJUÏC,905,176,2023
+15,Hostafrancs,3,SANTS-MONTJUÏC,,168,2018
+16,la Bordeta,3,SANTS-MONTJUÏC,174,30,2023
+16,la Bordeta,3,SANTS-MONTJUÏC,,44,2018
+17,Sants - Badal,3,SANTS-MONTJUÏC,458,97,2023
+17,Sants - Badal,3,SANTS-MONTJUÏC,,106,2018
+18,Sants,3,SANTS-MONTJUÏC,1299,242,2023
+18,Sants,3,SANTS-MONTJUÏC,,245,2018
+19,les Corts,4,LES CORTS,1124,200,2023
+19,les Corts,4,LES CORTS,,209,2018
+20,la Maternitat i Sant Ramon,4,LES CORTS,293,44,2023
+20,la Maternitat i Sant Ramon,4,LES CORTS,,46,2018
+21,Pedralbes,4,LES CORTS,93,11,2023
+21,Pedralbes,4,LES CORTS,,11,2018
+22,Vallvidrera,5,SARRIA-SANT GERVASI,0,3,2023
+22,Vallvidrera - el Tibidabo i les Planes,5,SARRIA-SANT GERVASI,,3,2018
+23,Sarrià,5,SARRIA-SANT GERVASI,147,26,2023
+23,Sarrià,5,SARRIA-SANT GERVASI,,27,2018
+24,les Tres Torres,5,SARRIA-SANT GERVASI,177,33,2023
+24,les Tres Torres,5,SARRIA-SANT GERVASI,,35,2018
+25,Sant Gervasi - la Bonanova,5,SARRIA-SANT GERVASI,270,46,2023
+25,Sant Gervasi - la Bonanova,5,SARRIA-SANT GERVASI,,32,2018
+26,Sant Gervasi - Galvany,5,SARRIA-SANT GERVASI,1772,240,2023
+26,Sant Gervasi - Galvany,5,SARRIA-SANT GERVASI,,245,2018
+27,el Putxet i el Farró,5,SARRIA-SANT GERVASI,1081,170,2023
+27,el Putxet i el Farró,5,SARRIA-SANT GERVASI,,155,2018
+28,Vallcarca i els Penitents,6,GRACIA,248,39,2023
+28,Vallcarca i els Penitents,6,GRACIA,,40,2018
+29,el Coll,6,GRACIA,109,20,2023
+29,el Coll,6,GRACIA,,20,2018
+30,la Salut,6,GRACIA,137,36,2023
+30,la Salut,6,GRACIA,,37,2018
+31,la Vila de Gràcia,6,GRACIA,3964,734,2023
+31,(blank),6,GRACIA,24,4,2023
+31,la Vila de Gràcia,6,GRACIA,,752,2018
+32,el Camp d'en Grassot i Gràcia Nova,6,GRACIA,1273,220,2023
+32,el Camp d'en Grassot i Gràcia Nova,6,GRACIA,,227,2018
+33,el Baix Guinardó,7,HORTA-GUINARDÓ,400,74,2023
+33,el Baix Guinardó,7,HORTA-GUINARDÓ,,106,2018
+34,Can Baró,7,HORTA-GUINARDÓ,88,20,2023
+34,Can Baró,7,HORTA-GUINARDÓ,,20,2018
+35,el Guinardó,7,HORTA-GUINARDÓ,405,74,2023
+35,el Guinardó,7,HORTA-GUINARDÓ,,70,2018
+36,la Font d'en Fargues,7,HORTA-GUINARDÓ,51,4,2023
+36,la Font d'en Fargues,7,HORTA-GUINARDÓ,,4,2018
+37,el Carmel,7,HORTA-GUINARDÓ,177,32,2023
+37,el Carmel,7,HORTA-GUINARDÓ,,33,2018
+38,la Teixonera,7,HORTA-GUINARDÓ,36,6,2023
+38,la Teixonera,7,HORTA-GUINARDÓ,,9,2018
+39,Sant Genís dels Agudells,7,HORTA-GUINARDÓ,21,3,2023
+39,Sant Genís dels Agudells,7,HORTA-GUINARDÓ,,4,2018
+41,la Vall d'Hebron,7,HORTA-GUINARDÓ,4,1,2023
+41,la Vall d'Hebron,7,HORTA-GUINARDÓ,,1,2018
+43,Horta,7,HORTA-GUINARDÓ,52,6,2023
+43,Horta,7,HORTA-GUINARDÓ,,6,2018
+44,Vilapicina i la Torre Llobeta,8,NOU BARRIS,36,9,2023
+44,Vilapicina i la Torre Llobeta,8,NOU BARRIS,,9,2018
+45,Porta,8,NOU BARRIS,34,10,2023
+45,Porta,8,NOU BARRIS,,2,2018
+48,la Guineueta,8,NOU BARRIS,4,1,2023
+48,la Guineueta,8,NOU BARRIS,,1,2018
+49,Canyelles,8,NOU BARRIS,7,1,2023
+49,Canyelles,8,NOU BARRIS,,1,2018
+50,les Roquetes,8,NOU BARRIS,6,2,2023
+50,les Roquetes,8,NOU BARRIS,,2,2018
+51,Verdun,8,NOU BARRIS,25,3,2023
+51,Verdun,8,NOU BARRIS,,3,2018
+52,la Prosperitat,8,NOU BARRIS,15,3,2023
+52,la Prosperitat,8,NOU BARRIS,,4,2018
+57,la Trinitat Vella,9,SANT ANDREU,17,5,2023
+57,la Trinitat Vella,9,SANT ANDREU,,4,2018
+59,el Bon Pastor,9,SANT ANDREU,4,1,2023
+59,el Bon Pastor,9,SANT ANDREU,,1,2018
+60,Sant Andreu,9,SANT ANDREU,193,33,2023
+60,Sant Andreu,9,SANT ANDREU,,29,2018
+61,la Sagrera,9,SANT ANDREU,163,22,2023
+61,la Sagrera,9,SANT ANDREU,,22,2018
+62,el Congrés i els Indians,9,SANT ANDREU,29,6,2023
+62,el Congrés i els Indians,9,SANT ANDREU,,6,2018
+63,Navas,9,SANT ANDREU,97,16,2023
+63,Navas,9,SANT ANDREU,,17,2018
+64,el Camp de l'Arpa del Clot,10,SANT MARTI,1391,268,2023
+64,el Camp de l'Arpa del Clot,10,SANT MARTI,,267,2018
+65,el Clot,10,SANT MARTI,269,50,2023
+65,el Clot,10,SANT MARTI,,51,2018
+66,el Parc i la Llacuna del Poblenou,10,SANT MARTI,513,99,2023
+66,el Parc i la Llacuna del Poblenou,10,SANT MARTI,,103,2018
+67,la Vila Olímpica del Poblenou,10,SANT MARTI,746,105,2023
+67,la Vila Olímpica del Poblenou,10,SANT MARTI,,111,2018
+68,el Poblenou,10,SANT MARTI,2117,386,2023
+68,el Poblenou,10,SANT MARTI,,394,2018
+69,Diagonal Mar i el Front Marítim del Poblenou,10,SANT MARTI,1097,125,2023
+69,Diagonal Mar i el Front Marítim del Poblenou,10,SANT MARTI,,129,2018
+70,el Besòs i el Maresme,10,SANT MARTI,183,32,2023
+70,el Besòs i el Maresme,10,SANT MARTI,,32,2018
+71,Provençals del Poblenou,10,SANT MARTI,180,31,2023
+71,Provençals del Poblenou,10,SANT MARTI,,39,2018
+72,Sant Martí de Provençals,10,SANT MARTI,82,14,2023
+72,Sant Martí de Provençals,10,SANT MARTI,,15,2018
+73,la Verneda i la Pau,10,SANT MARTI,49,9,2023
+73,la Verneda i la Pau,10,SANT MARTI,,9,2018

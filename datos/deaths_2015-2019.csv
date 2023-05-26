@@ -1,0 +1,74 @@
+Anys_Periode,Codi_Barri,Nom_Barri,Codi_Districte,Nom_Districte,Sum of Nombre
+2015-2019,01,el Raval,1,Ciutat Vella,1154.3
+2015-2019,02,el Barri Gòtic,1,Ciutat Vella,1122.6
+2015-2019,03,la Barceloneta,1,Ciutat Vella,1277.3
+2015-2019,04,"Sant Pere, Santa Caterina i la Ribera",1,Ciutat Vella,1022.1
+2015-2019,05,el Fort Pienc,2,Eixample,964.6
+2015-2019,06,la Sagrada Família,2,Eixample,944.4
+2015-2019,07,la Dreta de l'Eixample,2,Eixample,1069.7
+2015-2019,08,l'Antiga Esquerra de l'Eixample,2,Eixample,978.4
+2015-2019,09,la Nova Esquerra de l'Eixample,2,Eixample,882.7
+2015-2019,10,Sant Antoni,2,Eixample,862.4
+2015-2019,11,el Poble Sec,3,Sants-Montjuïc,1055.6
+2015-2019,12,la Marina del Prat Vermell,3,Sants-Montjuïc,1362.4
+2015-2019,13,la Marina de Port,3,Sants-Montjuïc,960.7
+2015-2019,14,la Font de la Guatlla,3,Sants-Montjuïc,1163.5
+2015-2019,15,Hostafrancs,3,Sants-Montjuïc,975.6
+2015-2019,16,la Bordeta,3,Sants-Montjuïc,891.6
+2015-2019,17,Sants - Badal,3,Sants-Montjuïc,888.6
+2015-2019,18,Sants,3,Sants-Montjuïc,902.9
+2015-2019,19,les Corts,4,Les Corts,886.2
+2015-2019,20,la Maternitat i Sant Ramon,4,Les Corts,817.9
+2015-2019,21,Pedralbes,4,Les Corts,767.5
+2015-2019,22,"Vallvidrera, el Tibidabo i les Planes",5,Sarrià-Sant Gervasi,1517
+2015-2019,23,Sarrià,5,Sarrià-Sant Gervasi,930.6
+2015-2019,24,les Tres Torres,5,Sarrià-Sant Gervasi,860.4
+2015-2019,25,Sant Gervasi - la Bonanova,5,Sarrià-Sant Gervasi,961.3
+2015-2019,26,Sant Gervasi - Galvany,5,Sarrià-Sant Gervasi,864.2
+2015-2019,27,el Putxet i el Farró,5,Sarrià-Sant Gervasi,851.5
+2015-2019,28,Vallcarca i els Penitents,6,Gràcia,881.1
+2015-2019,29,el Coll,6,Gràcia,881.4
+2015-2019,30,la Salut,6,Gràcia,1078.5
+2015-2019,31,la Vila de Gràcia,6,Gràcia,966.8
+2015-2019,32,el Camp d'en Grassot i Gràcia Nova,6,Gràcia,938.6
+2015-2019,33,el Baix Guinardó,7,Horta-Guinardó,960.9
+2015-2019,34,Can Baró,7,Horta-Guinardó,1047.2
+2015-2019,35,el Guinardó,7,Horta-Guinardó,890.7
+2015-2019,36,la Font d'en Fargues,7,Horta-Guinardó,996.7
+2015-2019,37,el Carmel,7,Horta-Guinardó,936.5
+2015-2019,38,la Teixonera,7,Horta-Guinardó,996.2
+2015-2019,39,Sant Genís dels Agudells,7,Horta-Guinardó,1079.7
+2015-2019,40,Montbau,7,Horta-Guinardó,1282.7
+2015-2019,41,la Vall d'Hebron,7,Horta-Guinardó,1006.5
+2015-2019,42,la Clota,7,Horta-Guinardó,1135.3
+2015-2019,43,Horta,7,Horta-Guinardó,955.6
+2015-2019,44,Vilapicina i la Torre Llobeta,8,Nou Barris,894.9
+2015-2019,45,Porta,8,Nou Barris,903.5
+2015-2019,46,el Turó de la Peira,8,Nou Barris,879.7
+2015-2019,47,Can Peguera,8,Nou Barris,1147.3
+2015-2019,48,la Guineueta,8,Nou Barris,864.7
+2015-2019,49,Canyelles,8,Nou Barris,969.8
+2015-2019,50,les Roquetes,8,Nou Barris,982.8
+2015-2019,51,Verdun,8,Nou Barris,951.1
+2015-2019,52,la Prosperitat,8,Nou Barris,902.2
+2015-2019,53,la Trinitat Nova,8,Nou Barris,1328.2
+2015-2019,54,Torre Baró,8,Nou Barris,1185.4
+2015-2019,55,Ciutat Meridiana,8,Nou Barris,863
+2015-2019,56,Vallbona,8,Nou Barris,1604.7
+2015-2019,57,la Trinitat Vella,9,Sant Andreu,897.5
+2015-2019,58,Baró de Viver,9,Sant Andreu,1141
+2015-2019,59,el Bon Pastor,9,Sant Andreu,1116.2
+2015-2019,60,Sant Andreu,9,Sant Andreu,895.8
+2015-2019,61,la Sagrera,9,Sant Andreu,902.2
+2015-2019,62,el Congrés i els Indians,9,Sant Andreu,879.8
+2015-2019,63,Navas,9,Sant Andreu,873.2
+2015-2019,64,el Camp de l'Arpa del Clot,10,Sant Martí,943.6
+2015-2019,65,el Clot,10,Sant Martí,893.7
+2015-2019,66,el Parc i la Llacuna del Poblenou,10,Sant Martí,919.1
+2015-2019,67,la Vila Olímpica del Poblenou,10,Sant Martí,800.1
+2015-2019,68,el Poblenou,10,Sant Martí,1038.5
+2015-2019,69,Diagonal Mar i el Front Marítim del Poblenou,10,Sant Martí,930.6
+2015-2019,70,el Besòs i el Maresme,10,Sant Martí,911.9
+2015-2019,71,Provençals del Poblenou,10,Sant Martí,950.3
+2015-2019,72,Sant Martí de Provençals,10,Sant Martí,884
+2015-2019,73,la Verneda i la Pau,10,Sant Martí,959.9
